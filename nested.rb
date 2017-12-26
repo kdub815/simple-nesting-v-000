@@ -84,7 +84,7 @@ def adding_matz
 			:known_for => "Ruby",
 			:languages => ["LISP", "C"]
 		}
-	puts programmer_hash
+	programmer_hash
 end
 
 def changing_alan
